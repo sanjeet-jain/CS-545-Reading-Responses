@@ -1,3 +1,7 @@
+place the code in a folder
+
+create a folder called data
+
 ask each participant to enter their participant code as their number such as p1, p2 etc
 c1 = use dominant hand for the test s0 to s5 times ( s0 is practice session)
 c2 = use non dominant hand
