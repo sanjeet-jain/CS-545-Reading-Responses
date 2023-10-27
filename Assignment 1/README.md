@@ -8,4 +8,4 @@ c2 = use non dominant hand
 
 for each condition c1 and c2 do the test s0 to s5 times
 
-place all zip files you get from https://webfitt.ngrok.io/ under data folder
+place all zip files you get from https://webfitt.ngrok.io/ under data folder and run the jupyter notebook analysis.ipynb
