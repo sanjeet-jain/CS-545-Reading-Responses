@@ -1,0 +1,89 @@
+Sanjeet: Hello, and thank you for agreeing to participate in our interview today. Before we dive into the questions, have you had a chance to read and agree to the disclaimer?
+
+Participant: Yes, I've read it, and I agree.
+
+Sanjeet: Great! Let's get started. I'm Sanjeet, and I'll be conducting the interview. Can I get your name, please?
+
+Participant: Sure, it's Dhruv.
+
+Sanjeet: Thanks, Dhruv. How old are you?
+
+Participant: I'm 27.
+
+Sanjeet: Perfect. And what is your gender?
+
+Participant: Male.
+
+Sanjeet: Alright, let's move on to the questions. How often do you order packages from delivery websites?
+
+Participant: I'd say about a 7, so fairly often.
+
+Sanjeet: Got it. Which websites do you use for online shopping?
+
+Participant: Mostly Amazon and sometimes Walmart.
+
+Sanjeet: Nice choices. Are there specific types of items or products you tend to order more frequently?
+
+Participant: I often order electronics and books.
+
+Sanjeet: Good to know. What factors influence your choice of using a particular online shopping platform?
+
+Participant: Mostly the prices and the variety of products they offer.
+
+Sanjeet: Makes sense. When you order packages, do you generally track the package?
+
+Participant: Yes, I always track them.
+
+Sanjeet: Great. Do you ever have any difficulty finding tracking numbers for different things that you ordered?
+
+Participant: Occasionally, yes.
+
+Sanjeet: Can you share any specific challenges or frustrations you've encountered while tracking packages in the past?
+
+Participant: Sometimes, the tracking information isn't updated in real-time, and that can be frustrating.
+
+Sanjeet: Understandable. Have you ever missed a package delivery because of difficulties in tracking or receiving notifications?
+
+Participant: Luckily, no.
+
+Sanjeet: That's good to hear. While tracking packages, do you have difficulty managing packages from different websites and shipping services?
+
+Participant: Yes, it can get confusing, especially if I've ordered from multiple places.
+
+Sanjeet: Have you ever thought of a system where you can track all of your packages at one place?
+
+Participant: Yeah, that would be really convenient.
+
+Sanjeet: If such a system existed, what would you look for in it?
+
+Participant: I'd want it to be user-friendly and provide real-time updates for all my packages.
+
+Sanjeet: Makes sense. Would you use a system that allows you to track all your packages from one centralized website?
+
+Participant: Yeah, I think I would.
+
+Sanjeet: How safe would you feel with the application being able to go through your emails for the tracking numbers for all your parcels?
+
+Participant: I would rate it around a 4, somewhat safe.
+
+Sanjeet: Thank you for your honesty. On a scale from 1 - 10, how often would you use a system like this over traditional tracking?
+
+Participant: I'd say around 8.
+
+Sanjeet: Do you believe that this system would improve your quality of life?
+
+Participant: Yes, it would make managing packages much easier.
+
+Sanjeet: What would you want in this system other than what was already described to you?
+
+Participant: Maybe a feature that alerts me when a package is out for delivery or has been delivered.
+
+Sanjeet: Great suggestion. Are there any other apps or services you often use that you'd want to be part of this system?
+
+Participant: Maybe my calendar and a reminder or to-do list app.
+
+Sanjeet: Fantastic. Thank you, Dhruv, for sharing your insights. This information will be valuable for our research project.
+
+Participant: You're welcome. If such a system comes out, I'd be interested in trying it out.
+
+Sanjeet: Noted. If you have any further questions or concerns, feel free to ask. Thank you again for your time!
